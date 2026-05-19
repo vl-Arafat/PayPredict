@@ -17,20 +17,18 @@ A machine learning-based salary prediction system using Linear and Polynomial Re
 - Matplotlib
 - scikit-learn
 
+## Screenshot
+
+![Prediction Graph](Images/linear_regression.png)
+![Prediction Graph](Images/polynomial_regression.png)
+![Prediction Graph](Images/app.png)
+
 ## How to Run
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-python main.py
 
 Run the Streamlit app:
-
-```bash
 streamlit run main.py
-
-
-## Screenshot
-
-![Prediction Graph](images/linear_regression.png)
-![Prediction Graph](images/polynomial_regression.png)
-![Prediction Graph](images/app.png)
